@@ -1,0 +1,14 @@
+.mainContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: rgb(220,220,220);
+    gap: 8px;
+}
+
+.activityContainer {
+    background-color: rgb(120,120,190);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
